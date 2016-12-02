@@ -1,1 +1,2 @@
-# SGSC
+# SGSC 
+//Sample program
